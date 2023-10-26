@@ -1,0 +1,31 @@
+/* universsal selector
+*{ */
+    color: red;}
+    h1, h2, h3{
+        color: brown;
+    }
+    .blue
+    {
+        color: blue;
+    }
+    .red
+    {color: red;}
+    .orange
+    {color: orange;}
+    .blue
+    {color: blue;}
+    .green
+    {color: green;}
+    .red
+    {color: red;}
+
+    h1 {
+        font-family: sans-serif;
+                    }
+    h1 {font-size: 50px;}
+    input{
+        height: 40px;
+        border: 1px solid grey;
+        border-radius: 30px ;
+        width: 40%;
+    }
