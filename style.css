@@ -29,3 +29,33 @@
         border-radius: 30px ;
         width: 40%;
     }
+
+    *{  background-color: rgb(116, 202, 202);
+        color: rgb(25, 148, 66);
+    }
+    h1 {
+        color: blue;
+    }
+
+    body {
+        font-family: Arial, Verdana, sans-serif;
+        color: #665544;
+        padding: 30px;}
+        .page {
+        border: 2px solid #665544;
+        background-color: #efefef;
+        padding: inherit;} 
+
+        
+       .RGBh {color: chocolate;
+            background-color: #e4d5e7;
+    }
+       .hexa {color: #d2691e;
+            background-color: hsl(152, 78%, 74%);
+    }
+       .Color{color: hwb(25 12% 18%);
+            background-color: aquamarine;
+    }
+    .box{border: 10px solid black;
+    width: 500px; background-color: bisque;
+    }
